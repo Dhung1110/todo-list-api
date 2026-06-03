@@ -1,0 +1,27 @@
+{
+  "name": "todo-list-api",
+  "version": "1.0.0",
+  "description": "A simple Todo List REST API built with Node.js, Express, and MongoDB. It provides CRUD endpoints for managing todo items.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhung1110/todo-list-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Dhung1110/todo-list-api/issues"
+  },
+  "homepage": "https://github.com/Dhung1110/todo-list-api#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.6.3",
+    "nodemon": "^3.1.14"
+  }
+}

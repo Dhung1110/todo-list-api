@@ -1,4 +1,4 @@
-[ ] Setup GitHub repository for Todo List API
+[x] Setup GitHub repository for Todo List API | Status: Done
 [ ] Initialize npm project and install dependencies (express, mongoose, dotenv, nodemon)
 [ ] Create basic Express server (src/server.js)
 [ ] Connect to MongoDB (using .env for connection string)
