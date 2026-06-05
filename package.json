@@ -4,6 +4,8 @@
   "description": "A simple Todo List REST API built with Node.js, Express, and MongoDB. It provides CRUD endpoints for managing todo items.",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
